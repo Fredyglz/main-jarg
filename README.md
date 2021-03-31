@@ -5,6 +5,7 @@ Encontraras el nombre del proyecto, una breve descripcion y el link directo para
 # React: De cero a experto (Hooks y MEARN) - Curso
 **Descripción:** En este repositorio podras encontrar todos los codigos y proyectos desarrollados en el curso de 'React: De Cero a experto (Hooks y MERN)' con Fernando Herrara disponible en la plataforma de Udemy lo cuales estaran divididos por secciones.
 
+## UpTask
 **Descripcion:** Este proyecto tiene como finalidad el poder administrar proyectos y darle un seguimiento a traves de pequeñas tareas donde cada que completes una tarea podras ver el avance de dicho proyecto, cuenta con un formulario de registro, inicion de sesion y validacion a traves de correo electronico.  
 **Tecnologia:** NodeJS && Pug  
 **Link:** https://thawing-taiga-10974.herokuapp.com/
