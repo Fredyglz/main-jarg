@@ -3,7 +3,7 @@ En este repositorio encontraras todos mis trabajos desplegados en algun host
 Encontraras el nombre del proyecto, una breve descripcion y el link directo para visualizarlo.
 
 # React: De cero a experto (Hooks y MEARN) - Curso
-**Descripción:** En este repositorio podras encontrar todos los codigos y proyectos desarrollados en el curso de 'React: De Cero a experto (Hooks y MERN)' con Fernando Herrara disponible en la plataforma de Udemy lo cuales estaran divididos por secciones.
+**Descripción:** En este repositorio podras encontrar todos los codigos y proyectos desarrollados en el curso de 'React: De Cero a experto (Hooks y MERN)' con Fernando Herrara disponible en la plataforma de Udemy lo cuales estaran divididos por secciones.  
 **_Enlace:_** https://github.com/Fredyglz/react-de-cero-a-experto-hooks-y-mern-fh-jarg
 
 ## UpTask
