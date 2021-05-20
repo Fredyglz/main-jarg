@@ -7,7 +7,7 @@ Encontraras el nombre del proyecto, una breve descripcion y el link directo para
 **_Enlace:_** https://github.com/Fredyglz/react-de-cero-a-experto-hooks-y-mern-fh-jarg
 
 # GIT + GitHub: Todo un sistema de control de versiones de cero - Curso
-**Descripciòn:** En este repositorio podras encontrar todos los codigos y proyectos desarrollados en el curso de 'GIT + GitHub: Todo un sistema de control de versiones de cero' con Fernando Herrara disponible en la plataforma de Udemy lo cuales estaran divididos por secciones.
+**Descripciòn:** En este repositorio podras encontrar todos los codigos y proyectos desarrollados en el curso de 'GIT + GitHub: Todo un sistema de control de versiones de cero' con Fernando Herrara disponible en la plataforma de Udemy lo cuales estaran divididos por secciones.  
 **_Enlace:_** https://github.com/Fredyglz/git---github-todo-un-sistema-de-control-de-versiones-de-cero-fh-jarg/blob/main/README.md
 
 ## UpTask
