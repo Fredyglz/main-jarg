@@ -8,7 +8,7 @@ Encontraras el nombre del proyecto, una breve descripcion y el link directo para
 
 # GIT + GitHub: Todo un sistema de control de versiones de cero - Curso
 **Descripciòn:** En este repositorio podras encontrar todos los codigos y proyectos desarrollados en el curso de 'GIT + GitHub: Todo un sistema de control de versiones de cero' con Fernando Herrara disponible en la plataforma de Udemy lo cuales estaran divididos por secciones.  
-**_Enlace:_** https://github.com/Fredyglz/git---github-todo-un-sistema-de-control-de-versiones-de-cero-fh-jarg/blob/main/README.md
+**_Enlace:_** https://github.com/Fredyglz/git---github-todo-un-sistema-de-control-de-versiones-de-cero-fh-jarg
 
 ## UpTask
 **Descripcion:** Este proyecto tiene como finalidad el poder administrar proyectos y darle un seguimiento a traves de pequeñas tareas donde cada que completes una tarea podras ver el avance de dicho proyecto, cuenta con un formulario de registro, inicion de sesion y validacion a traves de correo electronico.  
